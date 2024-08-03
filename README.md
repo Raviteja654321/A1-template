@@ -1,1 +1,1 @@
-# DIP Template
+# Template
