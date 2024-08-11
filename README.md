@@ -8,7 +8,7 @@ In this Assignment you will be going through the following :
   ```
   ├── src           
         ├──  main.ipynb
-  ├── images
+  ├── media
   ├── report.pdf
   └── README.md
   ```
